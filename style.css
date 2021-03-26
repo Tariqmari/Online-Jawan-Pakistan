@@ -1,0 +1,61 @@
+/* div {
+
+    background-color: aquamarine;
+}
+span {
+    font-size: 40px;
+}
+h1 {
+
+    color: blueviolet;
+    font-size: 25px;
+}
+p {
+font-weight: bold;
+
+}
+#para
+{
+    color: coral;
+}
+.imgone {
+width: 100px;
+height: 100px;
+
+
+}
+#One {
+    background-color: chartreuse;
+  /*  position: relative; */
+   /* top: 20px; 
+   position: fixed; 
+  
+  
+}
+#Two {
+    background-color: cyan;
+    position: sticky;
+    
+}
+#Three {
+    background-color: rgb(150, 134, 150);
+    
+}*/
+div {
+    height: 1000px;
+} 
+body {
+    height: 1200px;
+    margin: 12px;
+}
+table {
+    background-color: cyan;
+    width: 100%;
+    position: fixed;
+}
+tr{
+    color: black;
+}
+a{
+    color: black;
+}
